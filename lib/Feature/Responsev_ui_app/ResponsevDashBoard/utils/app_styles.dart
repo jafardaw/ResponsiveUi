@@ -1,7 +1,5 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/utils/size_config.dart';
-import 'package:something/core/util/size_config.dart';
 
 abstract class AppStyles {
   static TextStyle styleRegular16(context) {

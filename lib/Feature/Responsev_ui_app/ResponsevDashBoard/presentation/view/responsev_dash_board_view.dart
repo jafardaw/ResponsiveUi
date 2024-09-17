@@ -6,8 +6,6 @@ import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/da
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/dashboard_mobile_layout.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/dashboard_tablet_layout.dart';
 
-import 'package:something/core/util/size_config.dart';
-
 class DashBoradView extends StatefulWidget {
   const DashBoradView({super.key});
 

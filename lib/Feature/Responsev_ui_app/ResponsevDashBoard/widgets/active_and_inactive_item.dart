@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/models/drawer_item_model.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/utils/app_styles.dart';
-import 'package:something/core/util/app_styles.dart';
 
 class InActiveDrawerItem extends StatelessWidget {
   const InActiveDrawerItem({

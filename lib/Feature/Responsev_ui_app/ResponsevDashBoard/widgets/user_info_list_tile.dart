@@ -3,7 +3,6 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/models/user_info_model.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/utils/app_styles.dart';
-import 'package:something/core/util/app_styles.dart';
 
 class UserInfoListTile extends StatelessWidget {
   const UserInfoListTile({

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-
+import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/utils/app_styles.dart';
+import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/dots_indicator.dart';
+import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/my_cards_page_view.dart';
 
 class MyCardsSection extends StatefulWidget {
   const MyCardsSection({super.key});
@@ -20,7 +22,6 @@ class _MyCardsSectionState extends State<MyCardsSection> {
       currentPageIndex = pageController.page!.round();
       setState(() {});
     });
-    // TODO: implement initState
     super.initState();
   }
 

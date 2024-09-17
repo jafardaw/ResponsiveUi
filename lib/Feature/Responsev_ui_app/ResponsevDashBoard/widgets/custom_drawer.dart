@@ -5,7 +5,6 @@ import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/utils/app_
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/active_and_inactive_item.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/drawer_items_list_view.dart';
 import 'package:something/Feature/Responsev_ui_app/ResponsevDashBoard/widgets/user_info_list_tile.dart';
-import 'package:something/core/util/app_images.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});
